@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_MUTHU_TEST_CLASS1=========CCAU.abap",
+   "fingerprint":"vxuAPl+HIKRegU5V6zMTS5ZS/k6zxuXbQe/iS4OKI/RdsUYNm27n6aqtv0V7oCPBW6PBWyXdYLa5U8qkuBaOaQ=="
+  },
+  {
+   "name":"CINC ZCL_MUTHU_TEST_CLASS1=========CCDEF.abap",
+   "fingerprint":"+HOG77RCOPvIB5jHkGvZWk5aLG7YTRLn8J6sco4u2lju8QQUCp6Ul2xshw/88Hb5YxMI495zGoFlWrpcvPZg3g=="
+  },
+  {
+   "name":"CINC ZCL_MUTHU_TEST_CLASS1=========CCIMP.abap",
+   "fingerprint":"tw2nv8VLjOLdmdmAaNV2ddf1YS5kCqD/jHGQNaRROqbH9EtUzn7owAG+O6/wURHGExxsa1J18U2aJQP/G7EC/Q=="
+  },
+  {
+   "name":"CINC ZCL_MUTHU_TEST_CLASS1=========CCMAC.abap",
+   "fingerprint":"XWM8NJVNzAAOtd1RMjkxOy5x6H0nz0i6RGr1OhtkROtez6gCpTjsmGkX/V9564xLHesE/1+WzJe319uaKTUKNw=="
+  },
+  {
+   "name":"CLAS ZCL_MUTHU_TEST_CLASS1.asx.json",
+   "fingerprint":"vzvAcHC7/R2r9rWPbTkPrl0kcE2j5VWrEDTzm+rihab1QczHnhBcwcvzUHsAFjcvl64myIicVo9+7rVIH8e9kA=="
+  },
+  {
+   "name":"CLSD ZCL_MUTHU_TEST_CLASS1.abap",
+   "fingerprint":"d5SgulV9/+rcG9gCRLIKzn1YgvNcQH06onz7iNfGvQd2YQQWI/ChTPJcpYMtm71FvY3uLo7peNn2MwTWhwsFeA=="
+  },
+  {
+   "name":"CPRI ZCL_MUTHU_TEST_CLASS1.abap",
+   "fingerprint":"e3q/3TphmnbkMaGg/p49wNMOS5Ih0vy0GB+ewtVxFq2coXLxwTpjEHZwgAMK/rLyd2NEDdfh3EqZPVeFEzFczQ=="
+  },
+  {
+   "name":"CPRO ZCL_MUTHU_TEST_CLASS1.abap",
+   "fingerprint":"0l+vqT6muDm75RQNNqg5iZSbsyEAqalALVB+Plnfw8xjsu5noiXv4hZmZ7xNf6Xpbnp1EogKBl07o4+jANsU1A=="
+  },
+  {
+   "name":"CPUB ZCL_MUTHU_TEST_CLASS1.abap",
+   "fingerprint":"fXDF5g9TudBtpK0WKcp7YoeJqefadtIQtMSN4fWbB65BP2XNVPhyeT6QIiMlSKQOHuq0aRcKDYuEiT0sOmutoA=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"tNuG+qNw368YjXFcmpV022K+jONjvEWZ+0vpF04MjiK9+YCL/MKtiAzp6tqRj6WApXQCIbF86zo6JpvbbUZ+Gw=="
+  },
+  {
+   "name":"REPS ZCL_MUTHU_TEST_CLASS1=========CT.abap",
+   "fingerprint":"EPEzuZ/lEVjWkVkyiJMpKQkMSt3ih9ORLCPn0fiSXlSiPED/5n6KsEsuWlJBjCxLvcDwQQIS3gJJ60oda4PNxw=="
+  }
+ ],
+ "fingerprintAll":"ak2S8HSl1gsVsbR8POL7wvp6EmeSeMwTIXx9GrUUZeAhrmSxzJ9ugw7nrhKUBC88o7gvV/cz77kaCtw1/SXPhg=="
+}

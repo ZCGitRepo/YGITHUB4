@@ -1,0 +1,14 @@
+{
+  "name": "ygithub4",
+  "version": "1.0.0",
+  "description": "YGITHUB4",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/0E117F49B8461FD090C035D6DDAD987C_0"
+  }
+}

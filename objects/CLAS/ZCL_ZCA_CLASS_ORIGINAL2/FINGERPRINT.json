@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_ZCA_CLASS_ORIGINAL2=======CCAU.abap",
+   "fingerprint":"Wa0Pp/H4Nr9SDqk+jBEQdaIUFn5exYhyR8njHAllBfowTnXC3SSHW0idcJ83sgPTxRfp6+4lbKMVzrkB/1n9Pg=="
+  },
+  {
+   "name":"CINC ZCL_ZCA_CLASS_ORIGINAL2=======CCDEF.abap",
+   "fingerprint":"aGyGCh1DZbv/gtO34V72p6PbzR+woj71Yo4C2EnqC9Ke1Mu8eswModdKET5PIjEIVYeYtGr6aZ9vlpi1XROpmQ=="
+  },
+  {
+   "name":"CINC ZCL_ZCA_CLASS_ORIGINAL2=======CCIMP.abap",
+   "fingerprint":"GBidg7c2CvIBWMLaG7Ul3+yz/xSgt0o3sYtNFw6G2k2ZEhIlaJYBom1AH8Hmd+fmp5xA+TQNApua0NQdgRb9OQ=="
+  },
+  {
+   "name":"CINC ZCL_ZCA_CLASS_ORIGINAL2=======CCMAC.abap",
+   "fingerprint":"dO+nO6tLSw9R066rUD3cQDCE5fcgwc0M2LQgnYTF0EW8dQJwEnetk5mkBnuRxxqWLniHusVcxgCi3tjTtNtI9g=="
+  },
+  {
+   "name":"CLAS ZCL_ZCA_CLASS_ORIGINAL2.asx.json",
+   "fingerprint":"HC/Pf03QSrqs6q/cw78kqF5ggFnUqjDWWf/eTU5hpeDwksscNhWLZDTBAopvSO6FPsQSzXOUKYvX2YE41Dpixw=="
+  },
+  {
+   "name":"CLSD ZCL_ZCA_CLASS_ORIGINAL2.abap",
+   "fingerprint":"05FJhy6iAE+ZIoGWWKYbi+TARmuuq6c/veRZsamUkClv4NNYB0KQZrROh+vFiXE54YCDv9ZzbpuO7z1uFb4fSg=="
+  },
+  {
+   "name":"CPRI ZCL_ZCA_CLASS_ORIGINAL2.abap",
+   "fingerprint":"5zWkzH5vtdEnhuAeNHsJDC4UBQGjiIVNO98nF2p+pohMGWtnhmmYDzeNI0CBzhn0rVA3O6VEUJp76nllCNmTbw=="
+  },
+  {
+   "name":"CPRO ZCL_ZCA_CLASS_ORIGINAL2.abap",
+   "fingerprint":"XOC8tHZzReqen7twrFV5Qe/t4QsJmV7obhxmy6T97JPieAIIy0guaCV9CBPlF0H17bz+/DyhFhcu0SuvtTvsGQ=="
+  },
+  {
+   "name":"CPUB ZCL_ZCA_CLASS_ORIGINAL2.abap",
+   "fingerprint":"Y0xYOJcA4TTNy2+JXjC9tWIHQBimwOmhVA7Mt5pY8mdezyAaAA3BjnZgzxWRvG4EBO8pFbUDrqNlUBBqWBIzoA=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"xC2vcXDuK9SqTwUemYme6eSDDy/+TTF/pGSc/7+Th8Ts2AH8piq2baM0sItB4yPTZSP84Ea4n2eCBD3Ypqtdjw=="
+  },
+  {
+   "name":"REPS ZCL_ZCA_CLASS_ORIGINAL2=======CT.abap",
+   "fingerprint":"bHU+3ILXan96f4OPJw0Cm3qgmAfU8n2IgKD/d0t0ogbmodxx6ydEzgUIseYUcvZaGPNYB225a55GrfuFXqTHhA=="
+  }
+ ],
+ "fingerprintAll":"k/W89ygDz9fVqs/CsOu0k16A+D03YQ/+f6v9QhePnCQo8e5ylXnBPFTpaiGviZxTv28g79LopU6QjHd43kk/wA=="
+}

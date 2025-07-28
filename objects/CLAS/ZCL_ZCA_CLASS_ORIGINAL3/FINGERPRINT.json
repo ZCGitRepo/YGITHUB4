@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_ZCA_CLASS_ORIGINAL3=======CCAU.abap",
+   "fingerprint":"tWVF0uRF057uqmjn6l5Sc4vSc9148i1bchiRamtyCRSIj3k7UErAyMy3nkkhCLxfuAAqMyjGxCbcaQkhT85E3g=="
+  },
+  {
+   "name":"CINC ZCL_ZCA_CLASS_ORIGINAL3=======CCDEF.abap",
+   "fingerprint":"zJbQEAAH0SnKb4gxgbNOwEt/5Lmmq6wPrbi3JfQIr7qi2x/DiN/NfrsMzwDUFTmL6mKJy9ZzX+NFSRb67lh4wg=="
+  },
+  {
+   "name":"CINC ZCL_ZCA_CLASS_ORIGINAL3=======CCIMP.abap",
+   "fingerprint":"HCZqGY6BSynlfEw6I7P8JBJAhH3ZWPerbe50qovfyk704ZtLTjpwdI6zvUNT5xjYXMIy2OvUUO0MXzKaCjl2Dg=="
+  },
+  {
+   "name":"CINC ZCL_ZCA_CLASS_ORIGINAL3=======CCMAC.abap",
+   "fingerprint":"8kmoPHIVITJjn0vGm3wl/QdHwYT/mfcyBirsIfEWrkmGHKDowhvxbJcFQSafLAQo77Z7tQQeH1I+bo+IjHnIXg=="
+  },
+  {
+   "name":"CLAS ZCL_ZCA_CLASS_ORIGINAL3.asx.json",
+   "fingerprint":"/a8onIRuB8Blr8JtQOHW2KlVQmTOTR5IJW0BhYOcmRVePfEaO6Lvbr2fZ84bZ2KXAOFn+qXtWzRTiSgcQ3wQUA=="
+  },
+  {
+   "name":"CLSD ZCL_ZCA_CLASS_ORIGINAL3.abap",
+   "fingerprint":"xn3xF2FEj7TbtEXJuSVCuunXgsEW+rlZOoLAfbAls6p0t+H2NKOF2ypxfHsz6DVstbpywlEzRy5Tc3KKUn8nzQ=="
+  },
+  {
+   "name":"CPRI ZCL_ZCA_CLASS_ORIGINAL3.abap",
+   "fingerprint":"ASXOCElFGO4VqF4zL7zQMs+Fk6r0s/b6k8W7lOxDfteyy1B2oHD1kntDVVfHXGAO36EwgVVr9TSzlK8vbT4kBA=="
+  },
+  {
+   "name":"CPRO ZCL_ZCA_CLASS_ORIGINAL3.abap",
+   "fingerprint":"lq6nQgFip489QJONiHArj1o59RTGb/9WrhciV2HgCxT0/+LSfOuA+eT0gHf9BRbDFx4M9TUtZ9s3TYThYqtgEQ=="
+  },
+  {
+   "name":"CPUB ZCL_ZCA_CLASS_ORIGINAL3.abap",
+   "fingerprint":"VzMbaYmOvHr1q6WopJQ1+A9wzru2ZKZ5jJFM2zENgrFycDvcsojxBJ//fNW7c2ZhMkfZ8c9Dr8oso/JUXU3ofg=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"IrrymxGcjzdz9v1zhlvbXo6909D9FgvOzmyAzvm3ET00da0mQk67xZ8P8ZTIFP2/YxeXwK7EAh2+dj8iPdGyrA=="
+  },
+  {
+   "name":"REPS ZCL_ZCA_CLASS_ORIGINAL3=======CT.abap",
+   "fingerprint":"f1vRkqFKct86wo6/IokkFglBiXTosCxRTHQHAKLkSkKWUM7Ka+HLJbGTdyCpa4efymaN+788FTyQkUKQWUkEnQ=="
+  }
+ ],
+ "fingerprintAll":"XdHpdBMN9QF9QK1syZkEdTn08DQ86qbRTzDeGjduMBETEguYX+EavjccJseRfcH6S8x1Ex0BfUobhfSVi7W9Nw=="
+}
